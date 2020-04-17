@@ -9,3 +9,5 @@ https://github.com/CheKaiWei/Pandownload-Server
 ```
 64.52.84.68 pandownload.com
 ```
+
+详细操作：https://www.yuque.com/richard-ckw/technote/pandownload
